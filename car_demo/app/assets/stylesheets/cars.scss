@@ -1,0 +1,32 @@
+// Place all the styles related to the cars controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  margin: 2em;
+}
+
+.search-form {
+  border: 1px solid black;
+  padding: 1em;
+  margin-bottom: 2em;
+  text-align: center;
+}
+
+.form-component {
+  display: inline;
+  margin-right: 1em;
+}
+
+.bicycle {
+  margin-bottom: 2em;
+}
+
+.details {
+  font-size: 80%;
+  color: #999;
+}
+
+.description {
+  margin-bottom: 0.5em;
+}
